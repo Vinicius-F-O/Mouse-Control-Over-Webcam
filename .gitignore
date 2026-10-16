@@ -1,0 +1,24 @@
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Arquivos temporarios do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuracoes de editores
+.vscode/
+.idea/
+
+# Logs e arquivos temporarios
+*.log
+.pytest_cache/
+
+# Variaveis de ambiente e dados locais
+.env
+.env.*
+!.env.example
